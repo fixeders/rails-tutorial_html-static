@@ -1,0 +1,1 @@
+# This is rails-tutorial_html-static
